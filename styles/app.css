@@ -1,7 +1,11 @@
-#rect {
-    height: 200px;
-    width: 200px;
-    outline: 1px solid black;
+#cat {
     position: relative;
 
+    width: 200px;
+    height: 200px;
+}
+
+#mouse {
+    position: relative;
+    height: 200px;
 }
