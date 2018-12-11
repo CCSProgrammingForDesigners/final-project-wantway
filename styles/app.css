@@ -1,11 +1,12 @@
 #cat {
     position: relative;
 
-    width: 200px;
-    height: 200px;
+    width: 32px;
+    height: 32px;
 }
 
 #mouse {
     position: relative;
-    height: 200px;
+    height: 32px;
+    width: 32px;
 }
